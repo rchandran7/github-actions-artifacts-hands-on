@@ -30,4 +30,4 @@ jobs:
         name: hello-artifact
     
     - name: Display
-      run: cat ./artifacts/hello.txt
+      run: cat hello.txt
